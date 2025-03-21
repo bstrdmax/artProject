@@ -123,3 +123,18 @@ main .img{
 }
 
 /* Section Three End*/
+
+/* Footer Start*/
+footer{
+    margin-top: 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    
+}
+
+
+
+/* Footer End*/
